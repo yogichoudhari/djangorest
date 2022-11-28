@@ -1,0 +1,3 @@
+HOST_EMAIL = 'yogigurjar73542@gmail.com'
+HOST_EMAIL_PASSWORD = 'tkquszbnuhlkrywn'
+SECRET_KEY = 'django-insecure-y^id8s6)k6^#20e6=%qd*hcct8^jbk&h=$7plq%bh54f2aze5i'
